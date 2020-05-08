@@ -76,3 +76,9 @@ Install Directly From the Pop!\_Shop
 GIMP is a free and open-source raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks.
 
 Install Directly From the Pop!\_Shop
+
+### Krita
+
+Developed by KDE, Krita is a free and open-source raster graphics editor designed primarily for digital painting and 2D animation. It features an OpenGL-accelerated canvas, colour management support, an advanced brush engine, non-destructive layers and masks, group-based layer management, vector artwork support and switchable customisation profiles.
+
+Install Directly From the Pop!\_Shop
